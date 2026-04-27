@@ -31,15 +31,11 @@ plt.hist(): Generates a histogram to represent the distribution of a continuous 
 
 plt.scatter(): Produces a scatter plot to observe the relationship or correlation between two numerical variables.
 
-plt.pie(): Creates a pie chart to illustrate numerical proportions as slices of a circle.
-
 plt.legend(): Places a box on the graph to describe the different elements or data series plotted.
 
 sns.lineplot(): Draws a line graph to show data trends over a continuous interval or time period.
 
 sns.countplot(): Uses bars to show the frequency of observations in each categorical bin.
-
-sns.boxplot(): Displays the distribution of data based on a five-number summary (minimum, first quartile, median, third quartile, and maximum).
 
 plt.text(x, y, s, ha, va):Places text string s at position (x, y) with specified horizontal (ha) and vertical (va) alignment.
 
